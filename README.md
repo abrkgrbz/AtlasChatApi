@@ -172,9 +172,4 @@ görmek için yeterli.
 **Kullandığım / kullanılabilecek araçlar:** geliştirme için VS Code veya Visual Studio; API
 denemek için Swagger, curl, Postman; testler için xUnit; telefon tarafı için Asterisk + bir
 softphone; STT/TTS tarafında Whisper ve Piper (ya da Azure/Google); yapay zeka için Ollama.
-
----
-
-Not: Asterisk, STT ve TTS'in gerçek kodunu yazmadım çünkü soru bunları anlatmamı istiyordu, kod
-beklemiyordu. API tarafını bunların rahatça bağlanabileceği şekilde sade tuttum. Yapay zeka kısmını
-ise hem anlattım hem de çalışan kodla (`OllamaChatService`) gösterdim.
+ 
