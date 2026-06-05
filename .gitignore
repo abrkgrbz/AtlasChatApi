@@ -1,0 +1,21 @@
+## .NET build output
+bin/
+obj/
+
+## Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+## Test results
+[Tt]est[Rr]esults/
+*.trx
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Claude Code
+.claude/
