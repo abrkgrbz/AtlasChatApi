@@ -1,12 +1,5 @@
 # Atlas Chat API
 
-Atlas Yazılım için hazırladığım kısa değerlendirme çalışması. .NET 8 ile yazılmış basit bir
-Web API var (`POST /api/chat`), bir de istenen 5 sorunun cevaplarını aşağıya yazdım.
-
-Amacım dev bir proje yapmak değildi; küçük ama düzgün, kurcak olan kişinin başına iş açmadan
-çalışan bir şey bırakmaktı. Yanıt üretme kısmını bir arayüzün (`IChatService`) arkasına aldım,
-böylece "sabit cevap" yerine yapay zekaya geçmek tek satır ayar meselesi oluyor.
-
 ## Çalıştırma
 
 .NET 8 SDK kuruluysa proje klasöründe:
